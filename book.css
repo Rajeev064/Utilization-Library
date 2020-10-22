@@ -6,7 +6,7 @@ body{
     border-color: cadetblue;
 }
 .img-fluid {
-    height: 50vh !important;
+    height: 30vh !important;
     }
 .card-title .card-text{
     font-size: 20%;
